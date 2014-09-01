@@ -13,7 +13,8 @@ Android开源项目及工具集分类汇总
 
 
 ### cocos2d-x
-		项目描述: An open source software framework. It can be used to build games, apps and other cross platform GUI based interactive programs.
+		项目描述: An open source software framework. It can be used to build games, 
+		apps and other cross platform GUI based interactive programs.
 		项目地址: http://cocos2d-x.org
 
 
@@ -28,7 +29,8 @@ Android开源项目及工具集分类汇总
 
 
 ### SDL
-		项目描述: Cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL.
+		项目描述: Cross-platform development library designed to provide low level access to audio, 
+		keyboard, mouse, joystick, and graphics hardware via OpenGL.
 		项目地址: http://www.libsdl.org
 
 
@@ -40,7 +42,8 @@ Android开源项目及工具集分类汇总
 ## 第 1 部分：  3DEngines
 
 ### Dwarf
-		项目描述: An android framework/game engine consisting of a scene graph plus some utility classes. It's mainly aimed to abstract OpenGL ES.
+		项目描述: An android framework/game engine consisting of a scene graph plus some utility classes.
+		 It's mainly aimed to abstract OpenGL ES.
 		项目地址: https://code.google.com/p/dwarf-fw
 
 
@@ -50,7 +53,8 @@ Android开源项目及工具集分类汇总
 
 
 ### jPCT AE
-		项目描述: The free 3D solution for Java and Android. jPCT supports Android 1.5 and higher and can be used with OpenGL ES 1.x as well as with OpenGL ES 2.0.
+		项目描述: The free 3D solution for Java and Android. 
+		jPCT supports Android 1.5 and higher and can be used with OpenGL ES 1.x as well as with OpenGL ES 2.0.
 		项目地址: http://www.jpct.net/jpct-ae
 
 
@@ -60,7 +64,8 @@ Android开源项目及工具集分类汇总
 
 
 ### Linderdaum
-		项目描述: Open source purely object-oriented 3D gaming engine for Microsoft Windows, Google Android and BlackBerry OS 10 written in C++.
+		项目描述: Open source purely object-oriented 3D gaming engine for Microsoft Windows,
+		 Google Android and BlackBerry OS 10 written in C++.
 		项目地址: http://linderdaum.com
 
 
@@ -70,7 +75,8 @@ Android开源项目及工具集分类汇总
 
 
 ### Rajawali
-		项目描述: 3D engine for Android based on OpenGL ES 2.0/3.0. It can be used for normal apps as well as live wallpapers.
+		项目描述: 3D engine for Android based on OpenGL ES 2.0/3.0. 
+		It can be used for normal apps as well as live wallpapers.
 		项目地址: https://github.com/MasDennis/Rajawali
 
 
@@ -85,14 +91,16 @@ Android开源项目及工具集分类汇总
 
 
 ### MonoGame
-		项目描述: MonoGame is an open source implementation of the Microsoft XNA 4.x Framework. The goal is to make it easy for XNA developers to create cross-platform games with extremely high code reuse.
+		项目描述: MonoGame is an open source implementation of the Microsoft XNA 4.x Framework. 
+		The goal is to make it easy for XNA developers to create cross-platform games with extremely high code reuse.
 		项目地址: https://github.com/mono/MonoGame
 
 
 ## 第 2 部分：  ActionBars
 
 ### ActionBarSherlock
-		项目描述: An extension of the support library designed to facilitate the use of the action bar design pattern across all versions of Android with a single API.
+		项目描述: An extension of the support library designed to facilitate the use of the 
+		action bar design pattern across all versions of Android with a single API.
 		项目地址: http://actionbarsherlock.com
 
 
@@ -102,12 +110,15 @@ Android开源项目及工具集分类汇总
 
 
 ### FadingActionBar
-		项目描述: Android library implementing a fading effect for the action bar, similar to the one found in the Play Music app
+		项目描述: Android library implementing a fading effect for the action bar, 
+		similar to the one found in the Play Music app
 		项目地址: https://github.com/ManuelPeinado/FadingActionBar
 
 
 ### GlassActionBar
-		项目描述: An Android library which implements a glass-like effect for the action bar. The three most commonly used action bar implementations are supported: stock (API >13), ActionBarCompat and ActionBarSherlock.
+		项目描述: An Android library which implements a glass-like effect for the action bar. 
+		The three most commonly used action bar implementations are supported: stock (API >13), 
+		ActionBarCompat and ActionBarSherlock.
 		项目地址: https://github.com/ManuelPeinado/GlassActionBar
 
 
@@ -122,26 +133,32 @@ Android开源项目及工具集分类汇总
 
 
 ### Header2ActionBar
-		项目描述: Header2ActionBar is a library which implements the fading action bar effect that can be seen in the new Play Music and Google Newspaper apps.
+		项目描述: Header2ActionBar is a library which implements the fading action bar
+		 effect that can be seen in the new Play Music and Google Newspaper apps.
 		项目地址: https://github.com/AChep/Header2ActionBar
 
 
 ## 第 3 部分：  ADB
 
 ### fb-adb
-		项目描述: fb-adb is a tool for interacting with Android systems. It does much of what adb does, but with better remote shell support and, hopefully, fewer bugs. Differences between adb and fb-adb are that fb-adb: is binary clean (no LF -> CRLF mangling) transmits and updates window size distinguishes standard output and standard error properly muxes streams with independent flow control allows for ssh-like pty allocation control propagates program exit status instead of always exiting with status 0 properly escapes program arguments kills remote program provides a generic facility to elevate to root without re-escaping
+		项目描述: fb-adb is a tool for interacting with Android systems. It does much of what adb does,
+		 but with better remote shell support and, hopefully, fewer bugs. 
+		 Differences between adb and fb-adb are that fb-adb: is binary clean (no LF -> CRLF mangling) transmits and updates window size distinguishes standard output and standard error properly muxes streams with independent flow control allows for ssh-like pty allocation control propagates program exit status instead of always exiting with status 0 properly escapes program arguments kills remote program provides a generic facility to elevate to root without re-escaping
 		项目地址: https://github.com/facebook/fb-adb
 
 
 ### ChromeADB
-		项目描述: ChromeADB is a Chrome ADB (Android Debug Bridge) client. When launched, you can see all devices connected to your machine if the ADB connection is successful. Click a device that you want to control or monitor. And enjoy!
+		项目描述: ChromeADB is a Chrome ADB (Android Debug Bridge) client. When launched, 
+		you can see all devices connected to your machine if the ADB connection is successful. 
+		Click a device that you want to control or monitor. And enjoy!
 		项目地址: https://github.com/importre/chromeadb
 
 
 ## 第 4 部分：  Advertisements
 
 ### Google Mobile Ads SDK
-		项目描述: The latest generation in Google mobile advertising featuring refined ad formats and streamlined APIs for access to mobile ad networks and advertising solutions.
+		项目描述: The latest generation in Google mobile advertising featuring refined ad formats 
+		and streamlined APIs for access to mobile ad networks and advertising solutions.
 		项目地址: https://developers.google.com/mobile-ads-sdk
 
 
@@ -153,17 +170,23 @@ Android开源项目及工具集分类汇总
 ## 第 5 部分：  Analytics
 
 ### Google Analytics
-		项目描述: Service offered by Google that generates detailed statistics about a website's traffic and traffic sources and measures conversions and sales. The product is aimed at marketers as opposed to webmasters and technologists from which the industry of web analytics originally grew.
+		项目描述: Service offered by Google that generates detailed statistics about a website's 
+		traffic and traffic sources and measures conversions and sales. The product is aimed at 
+		marketers as opposed to webmasters and technologists from which the industry of web analytics 
+		originally grew.
 		项目地址: https://developers.google.com/analytics/devguides/collection/android
 
 
 ### Yandex Metrica
-		项目描述: A free tool that helps you increase the conversion rate of your site. Metrica lets you monitor the key effectiveness indicators of your website, analyze user behavior, and evaluate the efficiency of your ad campaigns.
+		项目描述: A free tool that helps you increase the conversion rate of your site. 
+		Metrica lets you monitor the key effectiveness indicators of your website, analyze user behavior, and evaluate the efficiency of your ad campaigns.
 		项目地址: https://appmetrica.yandex.com
 
 
 ### Capptain
-		项目描述: Capptain allows you to work on user retention and usage. This is done thanks to targeted PUSH notifications based on user behaviour or analytics, that our unique platform extracts, in realtime.
+		项目描述: Capptain allows you to work on user retention and usage. 
+		This is done thanks to targeted PUSH notifications based on user behaviour or analytics, 
+		that our unique platform extracts, in realtime.
 		项目地址: http://www.capptain.com
 
 
@@ -173,17 +196,20 @@ Android开源项目及工具集分类汇总
 
 
 ### Flurry
-		项目描述: Flurry Analytics is the industry standard in mobile. Flurry’s mission is to optimize the mobile experience through better apps and more personal ads.
+		项目描述: Flurry Analytics is the industry standard in mobile. 
+		Flurry’s mission is to optimize the mobile experience through better apps and more personal ads.
 		项目地址: http://www.flurry.com
 
 
 ### Kochava
-		项目描述: Kochava is a leading mobile attribution and analytics platform, with all the right features to be the only partner you’ll need.
+		项目描述: Kochava is a leading mobile attribution and analytics platform,
+		 with all the right features to be the only partner you’ll need.
 		项目地址: http://www.kochava.com
 
 
 ### Localytics
-		项目描述: The best mobile and web app analytics & marketing solution with real time insights, metrics, & marketing resources.
+		项目描述: The best mobile and web app analytics & marketing solution with real time insights,
+		 metrics, & marketing resources.
 		项目地址: http://www.localytics.com
 
 
@@ -193,19 +219,22 @@ Android开源项目及工具集分类汇总
 
 
 ### Telerik Analytics
-		项目描述: Make data-driven development decisions with Telerik Application Analytics - a multi-platform analytics service. Discover app usage patterns, analyze user data, log exceptions, trace problems and profile performance in real time.
+		项目描述: Make data-driven development decisions with Telerik Application Analytics - a multi-platform analytics service.
+		 Discover app usage patterns, analyze user data, log exceptions, trace problems and profile performance in real time.
 		项目地址: http://www.telerik.com/analytics
 
 
 ### Keynote
-		项目描述: Make every digital interaction count. Deliver exceptional mobile app and website experiences with Keynote’s powerful performance analytics solutions.
+		项目描述: Make every digital interaction count. 
+		Deliver exceptional mobile app and website experiences with Keynote’s powerful performance analytics solutions.
 		项目地址: http://www.keynote.com
 
 
 ## 第 6 部分：  Animations
 
 ### Rebound
-		项目描述: Rebound is a Java library that models spring dynamics. Rebound spring models can be used to create animations that feel natural by introducing real world physics to your application.
+		项目描述: Rebound is a Java library that models spring dynamics. 
+		Rebound spring models can be used to create animations that feel natural by introducing real world physics to your application.
 		项目地址: https://github.com/facebook/rebound
 
 
