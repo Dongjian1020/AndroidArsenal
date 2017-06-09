@@ -4,7 +4,7 @@ Android开源项目及工具集分类汇总
 
 ### AndEngine
 		项目描述: Free Android 2D OpenGL Game Engine.
-		项目地址:  http://www.andengine.org 
+		项目地址:  <http://www.andengine.org> 
 
 
 ### cocos2d-android
